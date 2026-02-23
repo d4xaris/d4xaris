@@ -4,7 +4,6 @@
 <!-- Main -->
 <img src="https://github.com/user-attachments/assets/5bd98acc-2d87-4004-ab82-4a9cc3ce5de6" width="180" align="right"/>
 <img src="https://github.com/user-attachments/assets/389f2d70-d8df-4e8f-963b-86628dcbf479" width="180" align="right"/>
-<img src="https://github.com/user-attachments/assets/dda5ad3a-16e5-4744-ae94-5534417d8216" width="180" align="right"/>
 <h3>I'm <b>Katy</b>, aka <b>dax</b></h3>
 <p>Student <a href="https://kpi.ua/en"><img src="https://img.shields.io/badge/Kyiv%20Polytechnic%20Institute-8fa8c8?style=flat" height="20"/></a> · Software Engineering</p>
 <p>she/her · 17 y.o.</p>

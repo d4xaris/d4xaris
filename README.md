@@ -37,7 +37,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8fa8c8&height=2" width="100%"/>
 
+
 <!-- Stats -->
-[![Dax's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4xaris&show_icons=true&theme=transparent&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4xaris&layout=compact&theme=transparent&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr valign="bottom">
+    <td>
+
+[![Dax's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4xaris&show_icons=true&theme=transparent&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+    <td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4xaris&layout=compact&theme=transparent&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117&langs_count=8&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+  </tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8fa8c8&height=2" width="100%"/>
+
+
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=NIGHTCORE%20NEVER%20DIES&fontSize=50&desc=%40dax&fontAlign=50&fontAlignY=45&descAlign=72&descAlignY=67&fontColor=8fa8c8&descColor=8fa8c8" width="100%"/>

@@ -20,8 +20,8 @@
 <h3>My stack:</h3>
 <p>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdjMWJrY25seWF0aGE2b29nbXhlNzc4YnNqNjVwbXo4M3lvM2wweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pTtbLJ7Jd0YM/giphy.gif" width="300" align="right" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 </p>
 
 <br>
@@ -29,10 +29,9 @@
 <h3>WIP:</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8fa8c8&height=2" width="100%"/>

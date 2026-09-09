@@ -20,7 +20,7 @@
 <h3>My stack:</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdjMWJrY25seWF0aGE2b29nbXhlNzc4YnNqNjVwbXo4M3lvM2wweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pTtbLJ7Jd0YM/giphy.gif" width="300" align="right" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>

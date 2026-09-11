@@ -76,7 +76,7 @@
   <tr valign="bottom">
     <td>
 
-[![Dax's GitHub stats](https://github-stats-extended.vercel.app/api?username=d4xaris&show_icons=true&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117)
+![Dax's GitHub stats](https://github-stats-extended.vercel.app/api?username=d4xaris&show_icons=true&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117)
 
 </td>
     <td>

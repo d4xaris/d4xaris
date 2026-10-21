@@ -36,12 +36,12 @@
   <tr valign="bottom">
     <td>
 
-![Dax's GitHub stats](https://github-stats-extended.vercel.app/api?username=d4xaris&show_icons=true&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117)
+![Dax's GitHub stats](https://github-stats-extended.vercel.app/api?username=d4xaris&show_icons=true&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117&cache_seconds=1800&count_private=true)
 
 </td>
     <td>
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=d4xaris&layout=compact&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117&langs_count=8&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=d4xaris&layout=compact&title_color=8fa8c8&text_color=8fa8c8&icon_color=8fa8c8&border_color=8fa8c8&bg_color=0d1117&langs_count=8&card_width=250&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 

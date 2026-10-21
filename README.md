@@ -29,47 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8fa8c8&height=2" width="100%"/>
 
-<!-- Stack and shi -->
-<h3>My stack:</h3>
-
-<p><b>Languages</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-<p><b>Backend</b></p>
-<p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
-</p>
-
-<p><b>Frontend</b></p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-<p><b>Databases</b></p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p><b>Tools</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8fa8c8&height=2" width="100%"/>
-
 
 <!-- Stats -->
 <table align="center" border="0" cellspacing="0" cellpadding="10">
@@ -88,7 +48,7 @@
 
   </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8fa8c8&height=2" width="100%"/>
+
 
 
 <!-- Footer -->
